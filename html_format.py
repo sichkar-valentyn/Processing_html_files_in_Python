@@ -12,7 +12,6 @@
 
 
 # Working with files in html format
-
 # Importing library lxml
 from lxml import etree
 import requests
