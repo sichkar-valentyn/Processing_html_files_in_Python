@@ -1,5 +1,5 @@
 # Processing html files in Python
-Examples on how to process html files in Python.
+Examples on how to process _html_ files in Python.
 
 ### Reference to:
 [1] Valentyn N Sichkar. Examples on how to process html files in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Processing_html_files_in_Python (date of access: XX.XX.XXXX)
